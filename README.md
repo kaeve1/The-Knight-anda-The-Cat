@@ -123,3 +123,7 @@ python -m code.Game   # ou o script de entrada equivalente do projeto
 - ✅ Condição de derrota (Game Over ao zerar o HP)
 - ✅ Menu inicial com os comandos de controle listados (tela de Opções)
 - ✅ Build compilada para Windows (`.exe` + assets) entregue em `.zip`
+
+
+LINK DO REPOSITÓRIO
+https://github.com/kaeve1/The-Knight-anda-The-Cat
