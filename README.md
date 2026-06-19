@@ -119,26 +119,6 @@ cd ProjectGame/_internal
 python -m code.Game   # ou o script de entrada equivalente do projeto
 ```
 
----
-
-## 🛠️ Créditos
-
-- **Desenvolvimento:** código integralmente produzido pelos autores do
-  projeto para esta atividade.
-- **Assets (sprites, sons e fontes):** obtidos de fontes gratuitas/livres da
-  internet, conforme autorizado pelo enunciado da atividade — não foram
-  criados pelos autores.
-- **Disciplina:** Linguagem de Programação Aplicada — UNINTER, 2026.
-- **Professor:** Jadson de Araujo Almeida.
-
----
-
-## 📋 Sobre a entrega
-
-Este projeto atende aos requisitos da Atividade Prática da disciplina:
-- ✅ Jogo 2D (não é via console/CMD)
-- ✅ Controle do jogador (movimento, pulo, ataque, defesa)
-- ✅ Desafio (ondas de inimigos + boss)
 - ✅ Condição de vitória (derrotar o boss e resgatar o gato)
 - ✅ Condição de derrota (Game Over ao zerar o HP)
 - ✅ Menu inicial com os comandos de controle listados (tela de Opções)
